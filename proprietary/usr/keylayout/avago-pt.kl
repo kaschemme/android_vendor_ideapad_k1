@@ -86,8 +86,8 @@ key 63    F5
 key 64    F6
 key 65    F7
 key 66    F8
-key 67    F9
-key 68    F10
+key 67    PAGE_UP
+key 68    PAGE_DOWN
 key 69    NUM_LOCK
 key 70    SCROLL_LOCK
 key 71    NUMPAD_7
@@ -107,7 +107,7 @@ key 83    NUMPAD_DOT
 # key 85 "KEY_ZENKAKUHANKAKU"
 key 86    BACKSLASH
 key 87    F11
-key 88    F12
+key 88    SEARCH
 # key 89 "KEY_RO"
 # key 90 "KEY_KATAKANA"
 # key 91 "KEY_HIRAGANA"
