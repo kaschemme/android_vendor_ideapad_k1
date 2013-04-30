@@ -185,3 +185,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/k1/proprietary/vendor/firmware/bcm4330/fw_bcmdhd.bin:system/vendor/firmware/bcm4330/fw_bcmdhd.bin \
     vendor/lenovo/k1/proprietary/vendor/firmware/bcm4330/fw_bcmdhd_apsta.bin:system/vendor/firmware/bcm4330/fw_bcmdhd_apsta.bin \
     vendor/lenovo/k1/proprietary/vendor/firmware/bcm4330/fw_bcmdhd_p2p.bin:system/vendor/firmware/bcm4330/fw_bcmdhd_p2p.bin
+
+# Boot Animation
+PRODUCT_COPY_FILES += device/lenovo/k1/prebuilt/media/bootanimation.zip:system/media/bootanimation.zip
